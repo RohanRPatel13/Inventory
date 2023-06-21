@@ -1,0 +1,15 @@
+apple, 23
+orange, 17
+banana, 10
+gum, 5
+sprite, 32
+coke, 11
+chocolate, 7
+milk, 12
+water, 15
+blueberry, 22
+strawberry, 17
+bread, 4
+cheese, 17
+egg, 31
+chip, 24
