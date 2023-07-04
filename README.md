@@ -1,6 +1,6 @@
 # Inventory
 
-## WHAT PROGRAM DOES
+## PURPOSE
 This program would be used in a grocery store in order to update the stores stock after a customer checks out. If stock for an item runs out, it is added to a seperate list and removed from the stock. 
 
 ## HOW TO COMPILE
